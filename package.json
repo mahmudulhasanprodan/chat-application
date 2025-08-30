@@ -1,0 +1,31 @@
+{
+  "name": "chat-application",
+  "version": "1.0.0",
+  "description": "Chat-application creation use node.js and MongoDB database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmudulhasanprodan/chat-application.git"
+  },
+  "author": "Mahmudul Hasan <mahmudulhasan8627@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahmudulhasanprodan/chat-application/issues"
+  },
+  "homepage": "https://github.com/mahmudulhasanprodan/chat-application#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.2.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "http-errors": "^2.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.0",
+    "multer": "^2.0.2"
+  }
+}

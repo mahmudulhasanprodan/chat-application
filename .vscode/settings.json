@@ -1,0 +1,8 @@
+{
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Dracula Theme",
+  "explorer.confirmDelete": false,
+  "workbench.iconTheme": "file-icons"
+}
